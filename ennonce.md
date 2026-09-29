@@ -26,3 +26,4 @@ def indice_de_masse_corporelle(poids,taille):
 imc = indice_de_masse_corporelle(73,1.71)
 
 IMC = 25.0 
+Valeur d'IMC indiquant un surpoids
