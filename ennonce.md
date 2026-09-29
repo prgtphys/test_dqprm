@@ -24,3 +24,5 @@ def indice_de_masse_corporelle(poids,taille):
     return imc
 
 imc = indice_de_masse_corporelle(73,1.71)
+
+IMC = 25.0 
