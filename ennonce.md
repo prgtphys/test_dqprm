@@ -23,7 +23,7 @@ def indice_de_masse_corporelle(poids,taille):
         print("Valeur d'IMC indiquant une obésité massive")
     return imc
 
-imc = indice_de_masse_corporelle(73,1.71)
+imc = indice_de_masse_corporelle(85,1.90)
 
-IMC = 25.0 
-Valeur d'IMC indiquant un surpoids
+IMC = 23.9
+Valeur d'IMC normal
